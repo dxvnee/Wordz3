@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Wordz</string>
+    <string name="x_diklik">%1$s clicked!</string>
+    <string name="tambah_catatan">Add Word</string>
+
+    <string name="judul">Title</string>
+    <string name="isi_catatan">Word</string>
+    <string name="kembali">Back</string>
+    <string name="simpan">Save</string>
+    <string name="edit_catatan">Change Word</string>
+    <string name="invalid">Data cannot be empty!</string>
+    <string name="lainnya">Other Options</string>
+    <string name="hapus">Delete Word</string>
+
+    <string name="pesan_hapus">Delete this word?</string>
+    <string name="tombol_hapus">Delete</string>
+    <string name="tombol_batal">Cancel</string>
+    <string name="list">List View</string>
+    <string name="grid">Grid View</string>
+
+
+    //
+
+        <string name="Indonesia">Bahasa Indonesia</string>
+        <string name="English">Bahasa Inggris</string>
+
+        <!--    MenuScreen-->
+        <string name="my_words">My Words :</string>
+        <string name="no_words">No Words Yet!</string>
+        <string name="meaning">"Translate: "</string>
+
+        <!--    AddWords-->
+        <string name="add_new_words">Add New Words :</string>
+        <string name="input_invalid">Data cannot be empty</string>
+
+        <string name="words">Words :</string>
+        <string name="ex_words">Ex. Table</string>
+
+        <string name="meaning_2">Translate :</string>
+        <string name="ex_meaning">Ex. Meja</string>
+
+        <string name="notes">Notes :</string>
+        <string name="ex_notes">Ex . Is a flat horizontal surface</string>
+
+        <string name="add_words">Add Words</string>
+
+        <string name="save_date">Save Input Date</string>
+        <string name="not_save_date">Do not Save Input Date</string>
+
+        <!--    Quiz Screen-->
+
+        <string name="correct">Correct :</string>
+        <string name="wrong">Wrong :</string>
+        <string name="quiz">Wordz Quiz</string>
+        <string name="choose_answer">Choose your answer...</string>
+
+        <string name="congratulation">Quiz Finished!</string>
+        <string name="share">Share</string>
+
+        <string name="bagikan_template" translatable="false">Correct: %1$s word(s)\nWrong: %2$s word(s)\n</string>
+
+        <string name="minimal_5">Add 5 words to start quiz!</string>
+        <string name="data_add">New word added succesfully!</string>
+    <string name="list_kosong">No Data</string>
+
+
+</resources>

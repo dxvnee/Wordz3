@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_catatan">Tambah Kata</string>
+    <string name="judul">Judul</string>
+    <string name="isi_catatan">Kata</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_catatan">Ubah Kata</string>
+    <string name="invalid">Data tidak boleh kosong!</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus Kata</string>
+    <string name="pesan_hapus">Hapus kata ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+    //
+        <string name="app_name">Wordz</string>
+        <string name="Indonesia">Bahasa Indonesia</string>
+        <string name="English">Bahasa Inggris</string>
+        <string name="my_words">Kata-ku :</string>
+        <string name="meaning">Terjemahan:</string>
+        <string name="add_new_words">Tambah Kata Baru :</string>
+        <string name="words">Kata :</string>
+        <string name="ex_words">Cth. Table</string>
+        <string name="meaning_2">Terjemahan :</string>
+        <string name="ex_meaning">Cth. Meja</string>
+        <string name="notes">Catatan :</string>
+        <string name="ex_notes">Cth. Sebuah permukaan datar</string>
+        <string name="add_words">Tambah Kata</string>
+        <string name="save_date">Simpan Tanggal Masukan</string>
+        <string name="not_save_date">Jangan Simpan Tanggal Masukan</string>
+        <string name="correct">Benar :</string>
+        <string name="wrong">Salah :</string>
+        <string name="quiz">Kuis Wordz</string>
+        <string name="choose_answer">Pilih jawabanmu...</string>
+        <string name="input_invalid">Data tidak boleh kosong</string>
+        <string name="congratulation">Kuis Selesai!</string>
+        <string name="share">Bagikan</string>
+        <string name="minimal_5">Tambah 5 kata untuk memulai kuis!</string>
+        <string name="data_add">Kata baru berhasil ditambahkan!</string>
+        <string name="no_words">Tidak Ada Kata!</string>
+</resources>

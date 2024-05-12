@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name ="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splashviolet</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/wordz_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.Wordz3</item>
+    </style>
+
+    <style name="Theme.Wordz3" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
